@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/testAtapi.dir/main.cpp.obj"
   "CMakeFiles/testAtapi.dir/products.cpp.obj"
+  "CMakeFiles/testAtapi.dir/Cclass.cpp.obj"
   "testAtapi.pdb"
   "testAtapi.exe"
   "testAtapi.exe.manifest"

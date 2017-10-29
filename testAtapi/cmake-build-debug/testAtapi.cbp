@@ -82,6 +82,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/admin/.CLion2017.2/my_projects/testAtapi/Cclass.cpp">
+			<Option target="testAtapi"/>
+		</Unit>
 		<Unit filename="C:/Users/admin/.CLion2017.2/my_projects/testAtapi/Cclass.h">
 			<Option target="testAtapi"/>
 		</Unit>

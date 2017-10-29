@@ -122,6 +122,33 @@ testAtapi/fast:
 	$(MAKE) -f CMakeFiles\testAtapi.dir\build.make CMakeFiles/testAtapi.dir/build
 .PHONY : testAtapi/fast
 
+Cclass.obj: Cclass.cpp.obj
+
+.PHONY : Cclass.obj
+
+# target to build an object file
+Cclass.cpp.obj:
+	$(MAKE) -f CMakeFiles\testAtapi.dir\build.make CMakeFiles/testAtapi.dir/Cclass.cpp.obj
+.PHONY : Cclass.cpp.obj
+
+Cclass.i: Cclass.cpp.i
+
+.PHONY : Cclass.i
+
+# target to preprocess a source file
+Cclass.cpp.i:
+	$(MAKE) -f CMakeFiles\testAtapi.dir\build.make CMakeFiles/testAtapi.dir/Cclass.cpp.i
+.PHONY : Cclass.cpp.i
+
+Cclass.s: Cclass.cpp.s
+
+.PHONY : Cclass.s
+
+# target to generate assembly for a file
+Cclass.cpp.s:
+	$(MAKE) -f CMakeFiles\testAtapi.dir\build.make CMakeFiles/testAtapi.dir/Cclass.cpp.s
+.PHONY : Cclass.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -185,6 +212,9 @@ help:
 	@echo ... edit_cache
 	@echo ... testAtapi
 	@echo ... rebuild_cache
+	@echo ... Cclass.obj
+	@echo ... Cclass.i
+	@echo ... Cclass.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

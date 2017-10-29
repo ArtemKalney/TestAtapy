@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/admin/.CLion2017.2/my_projects/testAtapi/Cclass.cpp" "C:/Users/admin/.CLion2017.2/my_projects/testAtapi/cmake-build-debug/CMakeFiles/testAtapi.dir/Cclass.cpp.obj"
   "C:/Users/admin/.CLion2017.2/my_projects/testAtapi/main.cpp" "C:/Users/admin/.CLion2017.2/my_projects/testAtapi/cmake-build-debug/CMakeFiles/testAtapi.dir/main.cpp.obj"
   "C:/Users/admin/.CLion2017.2/my_projects/testAtapi/products.cpp" "C:/Users/admin/.CLion2017.2/my_projects/testAtapi/cmake-build-debug/CMakeFiles/testAtapi.dir/products.cpp.obj"
   )
